@@ -56,3 +56,118 @@ Everything in Local Growth **+**
 > Includes: responsive SPA, accessibility audit, performance tuning (90+), JSON-LD (Local Business + FAQ), gallery modal, reviews marquee, map embed, contact CTAs (call/SMS), deployment + DNS + analytics, 14-day post-launch fixes.
 > **Care Plan (Growth) — $179/mo**: hosting/SSL/backups/monitoring + up to 90 mins monthly updates, quarterly SEO/schema refresh, monthly analytics report.
 
+My **pricing proposal template set**  for any local service or small business client (detailers, landscapers, HVAC, etc.).
+Each version is titled and named so I can swap the brand name + details quickly.
+
+---
+
+## 🟩 **Template 1 — "Launch Website Package"**
+
+**Price Range:** `$1,200 – $1,800`
+**Ideal for:** Solo service owners or startups needing a professional one-page web presence.
+
+### Deliverables
+
+* 1-page responsive website (hero, services, pricing, FAQ, contact)
+* Accessibility + mobile optimization
+* SEO foundation (OG metadata, JSON-LD schema, sitemap, robots.txt)
+* Google Analytics + call/text tracking
+* DNS + hosting setup (Vercel, Netlify, or custom)
+* Two post-launch revisions within 14 days
+
+### Timeline
+
+2–3 weeks total (including client feedback rounds)
+
+### Payment Terms
+
+50% deposit to start, 50% on delivery before launch.
+
+---
+
+## 🟦 **Template 2 — "Local Growth Package"**
+
+**Price Range:** `$2,000 – $3,000`
+**Ideal for:** Businesses expanding into multiple cities or service areas.
+
+### Deliverables
+
+* Everything in “Launch Website Package”
+* City/Service-area section or subpages (up to 5)
+* Performance tuning (90+ Lighthouse score)
+* Event tracking for CTA clicks (calls, texts, form submits)
+* Google Business Profile optimization checklist
+* Monthly analytics report setup (optional add-on)
+
+### Timeline
+
+3–5 weeks depending on content readiness
+
+### Payment Terms
+
+40% deposit, 30% mid-way, 30% before final delivery.
+
+---
+
+## 🟨 **Template 3 — "Lead Engine Package"**
+
+**Price Range:** `$3,500 – $6,000`
+**Ideal for:** Established brands or franchises investing in conversion-focused websites.
+
+### Deliverables
+
+* All from “Local Growth Package”
+* Online booking or quote form (SMS or email workflow)
+* Dynamic review integration (Google or Trustpilot)
+* Copywriting for conversion (3,000–4,000 words)
+* Brand tone & mini style system (color, typography, button rules)
+* Performance + security optimization (lazy loading, headers, caching)
+* A/B testing setup (optional)
+
+### Timeline
+
+4–6 weeks
+
+### Payment Terms
+
+40% deposit, 40% mid-project, 20% upon completion.
+
+---
+
+## 🔵 **Template 4 — "Website Care Plans" (Monthly)**
+
+| Plan                 | Price        | Description                                                                      |
+| -------------------- | ------------ | -------------------------------------------------------------------------------- |
+| **Hosting & Care**   | $49–$79/mo   | SSL, backups, security headers, uptime monitoring                                |
+| **Growth**           | $149–$299/mo | Everything above + content updates (2 hrs/mo), analytics reports, schema refresh |
+| **Local SEO Add-On** | $300–$800/mo | Citations, Google Business updates, content for city pages, and review tracking  |
+
+---
+
+## 🟧 **Template 5 — "A La Carte Add-Ons"**
+
+| Service                        | Price Range   | Notes                                          |
+| ------------------------------ | ------------- | ---------------------------------------------- |
+| Booking or Payment Integration | $300–$1,200   | Depends on complexity                          |
+| Copywriting (3–5 pages)        | $300–$1,200   | Keyword-optimized                              |
+| Logo or Visual Polish          | $150–$500     | Light rework or cleanup                        |
+| Ongoing Site Updates           | $120–$180/hr  | 1-hour minimum                                 |
+| Full Rebrand Design            | $1,000–$2,500 | Includes palette, type system, and new visuals |
+
+---
+
+## 💬 **Template 6 — "Client-Ready Quote Snippet"**
+
+> **Website Launch — $2,200 One-Time**
+>
+> * Responsive one-page site with custom design
+> * Accessibility & SEO optimization (Local Business + FAQ schema)
+> * Performance tuning (90+ Lighthouse)
+> * Gallery modal, reviews marquee, and call/text CTAs
+> * Deployment, DNS, and analytics setup
+> * Includes 14-day support for adjustments post-launch
+>
+> **Hosting & Growth Plan — $179/mo**
+> Hosting, SSL, uptime monitoring, monthly content updates (90 mins), and quarterly SEO refresh.
+
+---
