@@ -1,4 +1,4 @@
-# Website-services
+# Website-Services
 
 For a polished one-page site, responsive UI, animations, schema/SEO, gallery modal, reviews marquee, deployment + DNS **one-time** is **$1,500–$2,500**. Provided branding polish/copywriting/imagery sourcing, push to **$2,500–$3,500**.
 
